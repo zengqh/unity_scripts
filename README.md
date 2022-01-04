@@ -1,8 +1,8 @@
 # unity_scripts
-##fps.cs
+## fps.cs
 fps c# script
 
-##mvp matrix
+## mvp matrix
 how to reproduce MVP matrix in script:
 ```
  bool d3d = SystemInfo.graphicsDeviceVersion.IndexOf("Direct3D") > -1;
